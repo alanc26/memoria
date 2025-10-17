@@ -1,0 +1,53 @@
+Código región,Región,Código provincia,Provincia,Código comuna,Comuna,Población censada,Hombres,Mujeres,Razón hombre-mujer
+13,Metropolitana de Santiago,131.0,Santiago,13101.0,Santiago,438856.0,223237.0,215619.0,103.5
+13,Metropolitana de Santiago,131.0,Santiago,13102.0,Cerrillos,85041.0,41216.0,43825.0,94.0
+13,Metropolitana de Santiago,131.0,Santiago,13103.0,Cerro Navia,127250.0,62329.0,64921.0,96.0
+13,Metropolitana de Santiago,131.0,Santiago,13104.0,Conchalí,121587.0,59122.0,62465.0,94.6
+13,Metropolitana de Santiago,131.0,Santiago,13105.0,El Bosque,155257.0,75720.0,79537.0,95.2
+13,Metropolitana de Santiago,131.0,Santiago,13106.0,Estación Central,181049.0,88630.0,92419.0,95.9
+13,Metropolitana de Santiago,131.0,Santiago,13107.0,Huechuraba,101808.0,49479.0,52329.0,94.6
+13,Metropolitana de Santiago,131.0,Santiago,13108.0,Independencia,116943.0,56916.0,60027.0,94.8
+13,Metropolitana de Santiago,131.0,Santiago,13109.0,La Cisterna,103157.0,49154.0,54003.0,91.0
+13,Metropolitana de Santiago,131.0,Santiago,13110.0,La Florida,374836.0,178461.0,196375.0,90.9
+13,Metropolitana de Santiago,131.0,Santiago,13111.0,La Granja,112022.0,54758.0,57264.0,95.6
+13,Metropolitana de Santiago,131.0,Santiago,13112.0,La Pintana,175421.0,85240.0,90181.0,94.5
+13,Metropolitana de Santiago,131.0,Santiago,13113.0,La Reina,89870.0,42260.0,47610.0,88.8
+13,Metropolitana de Santiago,131.0,Santiago,13114.0,Las Condes,296134.0,137984.0,158150.0,87.2
+13,Metropolitana de Santiago,131.0,Santiago,13115.0,Lo Barnechea,112620.0,53609.0,59011.0,90.8
+13,Metropolitana de Santiago,131.0,Santiago,13116.0,Lo Espejo,87295.0,43095.0,44200.0,97.5
+13,Metropolitana de Santiago,131.0,Santiago,13117.0,Lo Prado,91290.0,44300.0,46990.0,94.3
+13,Metropolitana de Santiago,131.0,Santiago,13118.0,Macul,123800.0,58479.0,65321.0,89.5
+13,Metropolitana de Santiago,131.0,Santiago,13119.0,Maipú,503635.0,240903.0,262732.0,91.7
+13,Metropolitana de Santiago,131.0,Santiago,13120.0,Ñuñoa,241467.0,111613.0,129854.0,86.0
+13,Metropolitana de Santiago,131.0,Santiago,13121.0,Pedro Aguirre Cerda,96062.0,47073.0,48989.0,96.1
+13,Metropolitana de Santiago,131.0,Santiago,13122.0,Peñalolén,236478.0,114260.0,122218.0,93.5
+13,Metropolitana de Santiago,131.0,Santiago,13123.0,Providencia,143974.0,67329.0,76645.0,87.8
+13,Metropolitana de Santiago,131.0,Santiago,13124.0,Pudahuel,227820.0,109673.0,118147.0,92.8
+13,Metropolitana de Santiago,131.0,Santiago,13125.0,Quilicura,205624.0,99649.0,105975.0,94.0
+13,Metropolitana de Santiago,131.0,Santiago,13126.0,Quinta Normal,129351.0,63130.0,66221.0,95.3
+13,Metropolitana de Santiago,131.0,Santiago,13127.0,Recoleta,154615.0,76020.0,78595.0,96.7
+13,Metropolitana de Santiago,131.0,Santiago,13128.0,Renca,143622.0,69985.0,73637.0,95.0
+13,Metropolitana de Santiago,131.0,Santiago,13129.0,San Joaquín,95602.0,45983.0,49619.0,92.7
+13,Metropolitana de Santiago,131.0,Santiago,13130.0,San Miguel,150829.0,71229.0,79600.0,89.5
+13,Metropolitana de Santiago,131.0,Santiago,13131.0,San Ramón,76002.0,37417.0,38585.0,97.0
+13,Metropolitana de Santiago,131.0,Santiago,13132.0,Vitacura,86420.0,39914.0,46506.0,85.8
+13,Metropolitana de Santiago,132.0,Cordillera,13201.0,Puente Alto,568086.0,273928.0,294158.0,93.1
+13,Metropolitana de Santiago,132.0,Cordillera,13202.0,Pirque,29060.0,14399.0,14661.0,98.2
+13,Metropolitana de Santiago,132.0,Cordillera,13203.0,San José de Maipo,17441.0,8674.0,8767.0,98.9
+13,Metropolitana de Santiago,133.0,Chacabuco,13301.0,Colina,173293.0,86925.0,86368.0,100.6
+13,Metropolitana de Santiago,133.0,Chacabuco,13302.0,Lampa,145160.0,72328.0,72832.0,99.3
+13,Metropolitana de Santiago,133.0,Chacabuco,13303.0,Tiltil,19742.0,9940.0,9802.0,101.4
+13,Metropolitana de Santiago,134.0,Maipo,13401.0,San Bernardo,306371.0,148696.0,157675.0,94.3
+13,Metropolitana de Santiago,134.0,Maipo,13402.0,Buin,116969.0,56564.0,60405.0,93.6
+13,Metropolitana de Santiago,134.0,Maipo,13403.0,Calera de Tango,25491.0,12607.0,12884.0,97.9
+13,Metropolitana de Santiago,134.0,Maipo,13404.0,Paine,78828.0,38873.0,39955.0,97.3
+13,Metropolitana de Santiago,135.0,Melipilla,13501.0,Melipilla,136325.0,66759.0,69566.0,96.0
+13,Metropolitana de Santiago,135.0,Melipilla,13502.0,Alhué,7768.0,3863.0,3905.0,98.9
+13,Metropolitana de Santiago,135.0,Melipilla,13503.0,Curacaví,35165.0,17226.0,17939.0,96.0
+13,Metropolitana de Santiago,135.0,Melipilla,13504.0,María Pinto,15352.0,7559.0,7793.0,97.0
+13,Metropolitana de Santiago,135.0,Melipilla,13505.0,San Pedro,11108.0,5696.0,5412.0,105.2
+13,Metropolitana de Santiago,136.0,Talagante,13601.0,Talagante,76429.0,37488.0,38941.0,96.3
+13,Metropolitana de Santiago,136.0,Talagante,13602.0,El Monte,37497.0,18347.0,19150.0,95.8
+13,Metropolitana de Santiago,136.0,Talagante,13603.0,Isla de Maipo,39274.0,19401.0,19873.0,97.6
+13,Metropolitana de Santiago,136.0,Talagante,13604.0,Padre Hurtado,81243.0,39781.0,41462.0,95.9
+13,Metropolitana de Santiago,136.0,Talagante,13605.0,Peñaflor,94402.0,45612.0,48790.0,93.5
