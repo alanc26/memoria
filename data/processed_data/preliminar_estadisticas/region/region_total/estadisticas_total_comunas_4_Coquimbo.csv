@@ -1,16 +1,16 @@
-Código región,Región,Provincia,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
-4,Coquimbo,Elqui,La Serena,250141.0,Total nacidos fuera del país,15544,6.21
-4,Coquimbo,Elqui,Coquimbo,263719.0,Total nacidos fuera del país,16971,6.44
-4,Coquimbo,Elqui,Andacollo,11566.0,Total nacidos fuera del país,135,1.17
-4,Coquimbo,Elqui,La Higuera,4335.0,Total nacidos fuera del país,110,2.54
-4,Coquimbo,Elqui,Paiguano,4649.0,Total nacidos fuera del país,122,2.62
-4,Coquimbo,Elqui,Vicuña,28047.0,Total nacidos fuera del país,1239,4.42
-4,Coquimbo,Choapa,Illapel,32009.0,Total nacidos fuera del país,988,3.09
-4,Coquimbo,Choapa,Canela,9639.0,Total nacidos fuera del país,88,0.91
-4,Coquimbo,Choapa,Los Vilos,22879.0,Total nacidos fuera del país,1382,6.04
-4,Coquimbo,Choapa,Salamanca,27823.0,Total nacidos fuera del país,1271,4.57
-4,Coquimbo,Limarí,Ovalle,118696.0,Total nacidos fuera del país,5834,4.92
-4,Coquimbo,Limarí,Combarbalá,12954.0,Total nacidos fuera del país,168,1.3
-4,Coquimbo,Limarí,Monte Patria,29997.0,Total nacidos fuera del país,452,1.51
-4,Coquimbo,Limarí,Punitaqui,12076.0,Total nacidos fuera del país,236,1.95
-4,Coquimbo,Limarí,Río Hurtado,4334.0,Total nacidos fuera del país,0,0.0
+Código región,Región,Provincia,Código comuna,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
+4,Coquimbo,Elqui,4101,La Serena,250141.0,Total nacidos fuera del país,15544,6.21
+4,Coquimbo,Elqui,4102,Coquimbo,263719.0,Total nacidos fuera del país,16971,6.44
+4,Coquimbo,Elqui,4103,Andacollo,11566.0,Total nacidos fuera del país,135,1.17
+4,Coquimbo,Elqui,4104,La Higuera,4335.0,Total nacidos fuera del país,110,2.54
+4,Coquimbo,Elqui,4105,Paiguano,4649.0,Total nacidos fuera del país,122,2.62
+4,Coquimbo,Elqui,4106,Vicuña,28047.0,Total nacidos fuera del país,1239,4.42
+4,Coquimbo,Choapa,4201,Illapel,32009.0,Total nacidos fuera del país,988,3.09
+4,Coquimbo,Choapa,4202,Canela,9639.0,Total nacidos fuera del país,88,0.91
+4,Coquimbo,Choapa,4203,Los Vilos,22879.0,Total nacidos fuera del país,1382,6.04
+4,Coquimbo,Choapa,4204,Salamanca,27823.0,Total nacidos fuera del país,1271,4.57
+4,Coquimbo,Limarí,4301,Ovalle,118696.0,Total nacidos fuera del país,5834,4.92
+4,Coquimbo,Limarí,4302,Combarbalá,12954.0,Total nacidos fuera del país,168,1.3
+4,Coquimbo,Limarí,4303,Monte Patria,29997.0,Total nacidos fuera del país,452,1.51
+4,Coquimbo,Limarí,4304,Punitaqui,12076.0,Total nacidos fuera del país,236,1.95
+4,Coquimbo,Limarí,4305,Río Hurtado,4334.0,Total nacidos fuera del país,0,0.0

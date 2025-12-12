@@ -1,34 +1,34 @@
-Código región,Región,Provincia,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
-8,Biobío,Concepción,Concepción,230375.0,Total nacidos fuera del país,15088,6.55
-8,Biobío,Concepción,Coronel,123648.0,Total nacidos fuera del país,2704,2.19
-8,Biobío,Concepción,Chiguayante,85822.0,Total nacidos fuera del país,2155,2.51
-8,Biobío,Concepción,Florida,12958.0,Total nacidos fuera del país,190,1.47
-8,Biobío,Concepción,Hualqui,25795.0,Total nacidos fuera del país,264,1.02
-8,Biobío,Concepción,Lota,39980.0,Total nacidos fuera del país,496,1.24
-8,Biobío,Concepción,Penco,48971.0,Total nacidos fuera del país,1039,2.12
-8,Biobío,Concepción,San Pedro de La paz,150992.0,Total nacidos fuera del país,6771,4.48
-8,Biobío,Concepción,Santa Juana,14947.0,Total nacidos fuera del país,182,1.22
-8,Biobío,Concepción,Talcahuano,147322.0,Total nacidos fuera del país,4512,3.06
-8,Biobío,Concepción,Tomé,56907.0,Total nacidos fuera del país,838,1.47
-8,Biobío,Concepción,Hualpén,87731.0,Total nacidos fuera del país,2726,3.11
-8,Biobío,Arauco,Lebu,25246.0,Total nacidos fuera del país,426,1.69
-8,Biobío,Arauco,Arauco,37163.0,Total nacidos fuera del país,382,1.03
-8,Biobío,Arauco,Cañete,34640.0,Total nacidos fuera del país,259,0.75
-8,Biobío,Arauco,Contulmo,5905.0,Total nacidos fuera del país,0,0.0
-8,Biobío,Arauco,Curanilahue,31119.0,Total nacidos fuera del país,281,0.9
-8,Biobío,Arauco,Los Álamos,21950.0,Total nacidos fuera del país,109,0.5
-8,Biobío,Arauco,Tirúa,10208.0,Total nacidos fuera del país,0,0.0
-8,Biobío,Biobío,Los Ángeles,219441.0,Total nacidos fuera del país,6583,3.0
-8,Biobío,Biobío,Antuco,4373.0,Total nacidos fuera del país,0,0.0
-8,Biobío,Biobío,Cabrero,31256.0,Total nacidos fuera del país,561,1.79
-8,Biobío,Biobío,Laja,23706.0,Total nacidos fuera del país,272,1.15
-8,Biobío,Biobío,Mulchén,29036.0,Total nacidos fuera del país,109,0.38
-8,Biobío,Biobío,Nacimiento,26140.0,Total nacidos fuera del país,251,0.96
-8,Biobío,Biobío,Negrete,10723.0,Total nacidos fuera del país,78,0.73
-8,Biobío,Biobío,Quilaco,4440.0,Total nacidos fuera del país,0,0.0
-8,Biobío,Biobío,Quilleco,9700.0,Total nacidos fuera del país,0,0.0
-8,Biobío,Biobío,San Rosendo,3575.0,Total nacidos fuera del país,0,0.0
-8,Biobío,Biobío,Santa Bárbara,14075.0,Total nacidos fuera del país,97,0.69
-8,Biobío,Biobío,Tucapel,15729.0,Total nacidos fuera del país,120,0.76
-8,Biobío,Biobío,Yumbel,23170.0,Total nacidos fuera del país,214,0.92
-8,Biobío,Biobío,Alto Biobío,6016.0,Total nacidos fuera del país,0,0.0
+Código región,Región,Provincia,Código comuna,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
+8,Biobío,Concepción,8101,Concepción,230375.0,Total nacidos fuera del país,15088,6.55
+8,Biobío,Concepción,8102,Coronel,123648.0,Total nacidos fuera del país,2704,2.19
+8,Biobío,Concepción,8103,Chiguayante,85822.0,Total nacidos fuera del país,2155,2.51
+8,Biobío,Concepción,8104,Florida,12958.0,Total nacidos fuera del país,190,1.47
+8,Biobío,Concepción,8105,Hualqui,25795.0,Total nacidos fuera del país,264,1.02
+8,Biobío,Concepción,8106,Lota,39980.0,Total nacidos fuera del país,496,1.24
+8,Biobío,Concepción,8107,Penco,48971.0,Total nacidos fuera del país,1039,2.12
+8,Biobío,Concepción,8108,San Pedro de La paz,150992.0,Total nacidos fuera del país,6771,4.48
+8,Biobío,Concepción,8109,Santa Juana,14947.0,Total nacidos fuera del país,182,1.22
+8,Biobío,Concepción,8110,Talcahuano,147322.0,Total nacidos fuera del país,4512,3.06
+8,Biobío,Concepción,8111,Tomé,56907.0,Total nacidos fuera del país,838,1.47
+8,Biobío,Concepción,8112,Hualpén,87731.0,Total nacidos fuera del país,2726,3.11
+8,Biobío,Arauco,8201,Lebu,25246.0,Total nacidos fuera del país,426,1.69
+8,Biobío,Arauco,8202,Arauco,37163.0,Total nacidos fuera del país,382,1.03
+8,Biobío,Arauco,8203,Cañete,34640.0,Total nacidos fuera del país,259,0.75
+8,Biobío,Arauco,8204,Contulmo,5905.0,Total nacidos fuera del país,0,0.0
+8,Biobío,Arauco,8205,Curanilahue,31119.0,Total nacidos fuera del país,281,0.9
+8,Biobío,Arauco,8206,Los Álamos,21950.0,Total nacidos fuera del país,109,0.5
+8,Biobío,Arauco,8207,Tirúa,10208.0,Total nacidos fuera del país,0,0.0
+8,Biobío,Biobío,8301,Los Ángeles,219441.0,Total nacidos fuera del país,6583,3.0
+8,Biobío,Biobío,8302,Antuco,4373.0,Total nacidos fuera del país,0,0.0
+8,Biobío,Biobío,8303,Cabrero,31256.0,Total nacidos fuera del país,561,1.79
+8,Biobío,Biobío,8304,Laja,23706.0,Total nacidos fuera del país,272,1.15
+8,Biobío,Biobío,8305,Mulchén,29036.0,Total nacidos fuera del país,109,0.38
+8,Biobío,Biobío,8306,Nacimiento,26140.0,Total nacidos fuera del país,251,0.96
+8,Biobío,Biobío,8307,Negrete,10723.0,Total nacidos fuera del país,78,0.73
+8,Biobío,Biobío,8308,Quilaco,4440.0,Total nacidos fuera del país,0,0.0
+8,Biobío,Biobío,8309,Quilleco,9700.0,Total nacidos fuera del país,0,0.0
+8,Biobío,Biobío,8310,San Rosendo,3575.0,Total nacidos fuera del país,0,0.0
+8,Biobío,Biobío,8311,Santa Bárbara,14075.0,Total nacidos fuera del país,97,0.69
+8,Biobío,Biobío,8312,Tucapel,15729.0,Total nacidos fuera del país,120,0.76
+8,Biobío,Biobío,8313,Yumbel,23170.0,Total nacidos fuera del país,214,0.92
+8,Biobío,Biobío,8314,Alto Biobío,6016.0,Total nacidos fuera del país,0,0.0

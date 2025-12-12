@@ -1,34 +1,34 @@
-Código región,Región,Provincia,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
-6,Libertador General Bernardo O'Higgins,Cachapoal,Rancagua,257744.0,Total nacidos fuera del país,20640,8.01
-6,Libertador General Bernardo O'Higgins,Cachapoal,Codegua,13955.0,Total nacidos fuera del país,371,2.66
-6,Libertador General Bernardo O'Higgins,Cachapoal,Coinco,7916.0,Total nacidos fuera del país,107,1.35
-6,Libertador General Bernardo O'Higgins,Cachapoal,Coltauco,21373.0,Total nacidos fuera del país,591,2.77
-6,Libertador General Bernardo O'Higgins,Cachapoal,Doñihue,21925.0,Total nacidos fuera del país,728,3.32
-6,Libertador General Bernardo O'Higgins,Cachapoal,Graneros,35938.0,Total nacidos fuera del país,2068,5.75
-6,Libertador General Bernardo O'Higgins,Cachapoal,Las Cabras,27554.0,Total nacidos fuera del país,1653,6.0
-6,Libertador General Bernardo O'Higgins,Cachapoal,Machalí,60875.0,Total nacidos fuera del país,3093,5.08
-6,Libertador General Bernardo O'Higgins,Cachapoal,Malloa,13882.0,Total nacidos fuera del país,266,1.92
-6,Libertador General Bernardo O'Higgins,Cachapoal,Mostazal,27394.0,Total nacidos fuera del país,625,2.28
-6,Libertador General Bernardo O'Higgins,Cachapoal,Olivar,13901.0,Total nacidos fuera del país,333,2.4
-6,Libertador General Bernardo O'Higgins,Cachapoal,Peumo,14243.0,Total nacidos fuera del país,154,1.08
-6,Libertador General Bernardo O'Higgins,Cachapoal,Pichidegua,20363.0,Total nacidos fuera del país,414,2.03
-6,Libertador General Bernardo O'Higgins,Cachapoal,Quinta de Tilcoco,13558.0,Total nacidos fuera del país,506,3.73
-6,Libertador General Bernardo O'Higgins,Cachapoal,Rengo,63620.0,Total nacidos fuera del país,3217,5.06
-6,Libertador General Bernardo O'Higgins,Cachapoal,Requínoa,29508.0,Total nacidos fuera del país,1003,3.4
-6,Libertador General Bernardo O'Higgins,Cachapoal,San Vicente,49559.0,Total nacidos fuera del país,1755,3.54
-6,Libertador General Bernardo O'Higgins,Cardenal Caro,Pichilemu,19847.0,Total nacidos fuera del país,1033,5.2
-6,Libertador General Bernardo O'Higgins,Cardenal Caro,La Estrella,4609.0,Total nacidos fuera del país,186,4.04
-6,Libertador General Bernardo O'Higgins,Cardenal Caro,Litueche,8852.0,Total nacidos fuera del país,324,3.66
-6,Libertador General Bernardo O'Higgins,Cardenal Caro,Marchihue,8715.0,Total nacidos fuera del país,154,1.77
-6,Libertador General Bernardo O'Higgins,Cardenal Caro,Navidad,8885.0,Total nacidos fuera del país,319,3.59
-6,Libertador General Bernardo O'Higgins,Cardenal Caro,Paredones,7228.0,Total nacidos fuera del país,92,1.27
-6,Libertador General Bernardo O'Higgins,Colchagua,San Fernando,75585.0,Total nacidos fuera del país,3706,4.9
-6,Libertador General Bernardo O'Higgins,Colchagua,Chépica,15668.0,Total nacidos fuera del país,311,1.98
-6,Libertador General Bernardo O'Higgins,Colchagua,Chimbarongo,37258.0,Total nacidos fuera del país,790,2.12
-6,Libertador General Bernardo O'Higgins,Colchagua,Lolol,7791.0,Total nacidos fuera del país,122,1.57
-6,Libertador General Bernardo O'Higgins,Colchagua,Nancagua,18723.0,Total nacidos fuera del país,1178,6.29
-6,Libertador General Bernardo O'Higgins,Colchagua,Palmilla,13060.0,Total nacidos fuera del país,183,1.4
-6,Libertador General Bernardo O'Higgins,Colchagua,Peralillo,12493.0,Total nacidos fuera del país,494,3.95
-6,Libertador General Bernardo O'Higgins,Colchagua,Placilla,9438.0,Total nacidos fuera del país,380,4.03
-6,Libertador General Bernardo O'Higgins,Colchagua,Pumanque,4559.0,Total nacidos fuera del país,91,2.0
-6,Libertador General Bernardo O'Higgins,Colchagua,Santa Cruz,41209.0,Total nacidos fuera del país,2385,5.79
+Código región,Región,Provincia,Código comuna,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
+6,Libertador General Bernardo O'Higgins,Cachapoal,6101,Rancagua,257744.0,Total nacidos fuera del país,20640,8.01
+6,Libertador General Bernardo O'Higgins,Cachapoal,6102,Codegua,13955.0,Total nacidos fuera del país,371,2.66
+6,Libertador General Bernardo O'Higgins,Cachapoal,6103,Coinco,7916.0,Total nacidos fuera del país,107,1.35
+6,Libertador General Bernardo O'Higgins,Cachapoal,6104,Coltauco,21373.0,Total nacidos fuera del país,591,2.77
+6,Libertador General Bernardo O'Higgins,Cachapoal,6105,Doñihue,21925.0,Total nacidos fuera del país,728,3.32
+6,Libertador General Bernardo O'Higgins,Cachapoal,6106,Graneros,35938.0,Total nacidos fuera del país,2068,5.75
+6,Libertador General Bernardo O'Higgins,Cachapoal,6107,Las Cabras,27554.0,Total nacidos fuera del país,1653,6.0
+6,Libertador General Bernardo O'Higgins,Cachapoal,6108,Machalí,60875.0,Total nacidos fuera del país,3093,5.08
+6,Libertador General Bernardo O'Higgins,Cachapoal,6109,Malloa,13882.0,Total nacidos fuera del país,266,1.92
+6,Libertador General Bernardo O'Higgins,Cachapoal,6110,Mostazal,27394.0,Total nacidos fuera del país,625,2.28
+6,Libertador General Bernardo O'Higgins,Cachapoal,6111,Olivar,13901.0,Total nacidos fuera del país,333,2.4
+6,Libertador General Bernardo O'Higgins,Cachapoal,6112,Peumo,14243.0,Total nacidos fuera del país,154,1.08
+6,Libertador General Bernardo O'Higgins,Cachapoal,6113,Pichidegua,20363.0,Total nacidos fuera del país,414,2.03
+6,Libertador General Bernardo O'Higgins,Cachapoal,6114,Quinta de Tilcoco,13558.0,Total nacidos fuera del país,506,3.73
+6,Libertador General Bernardo O'Higgins,Cachapoal,6115,Rengo,63620.0,Total nacidos fuera del país,3217,5.06
+6,Libertador General Bernardo O'Higgins,Cachapoal,6116,Requínoa,29508.0,Total nacidos fuera del país,1003,3.4
+6,Libertador General Bernardo O'Higgins,Cachapoal,6117,San Vicente,49559.0,Total nacidos fuera del país,1755,3.54
+6,Libertador General Bernardo O'Higgins,Cardenal Caro,6201,Pichilemu,19847.0,Total nacidos fuera del país,1033,5.2
+6,Libertador General Bernardo O'Higgins,Cardenal Caro,6202,La Estrella,4609.0,Total nacidos fuera del país,186,4.04
+6,Libertador General Bernardo O'Higgins,Cardenal Caro,6203,Litueche,8852.0,Total nacidos fuera del país,324,3.66
+6,Libertador General Bernardo O'Higgins,Cardenal Caro,6204,Marchihue,8715.0,Total nacidos fuera del país,154,1.77
+6,Libertador General Bernardo O'Higgins,Cardenal Caro,6205,Navidad,8885.0,Total nacidos fuera del país,319,3.59
+6,Libertador General Bernardo O'Higgins,Cardenal Caro,6206,Paredones,7228.0,Total nacidos fuera del país,92,1.27
+6,Libertador General Bernardo O'Higgins,Colchagua,6301,San Fernando,75585.0,Total nacidos fuera del país,3706,4.9
+6,Libertador General Bernardo O'Higgins,Colchagua,6302,Chépica,15668.0,Total nacidos fuera del país,311,1.98
+6,Libertador General Bernardo O'Higgins,Colchagua,6303,Chimbarongo,37258.0,Total nacidos fuera del país,790,2.12
+6,Libertador General Bernardo O'Higgins,Colchagua,6304,Lolol,7791.0,Total nacidos fuera del país,122,1.57
+6,Libertador General Bernardo O'Higgins,Colchagua,6305,Nancagua,18723.0,Total nacidos fuera del país,1178,6.29
+6,Libertador General Bernardo O'Higgins,Colchagua,6306,Palmilla,13060.0,Total nacidos fuera del país,183,1.4
+6,Libertador General Bernardo O'Higgins,Colchagua,6307,Peralillo,12493.0,Total nacidos fuera del país,494,3.95
+6,Libertador General Bernardo O'Higgins,Colchagua,6308,Placilla,9438.0,Total nacidos fuera del país,380,4.03
+6,Libertador General Bernardo O'Higgins,Colchagua,6309,Pumanque,4559.0,Total nacidos fuera del país,91,2.0
+6,Libertador General Bernardo O'Higgins,Colchagua,6310,Santa Cruz,41209.0,Total nacidos fuera del país,2385,5.79

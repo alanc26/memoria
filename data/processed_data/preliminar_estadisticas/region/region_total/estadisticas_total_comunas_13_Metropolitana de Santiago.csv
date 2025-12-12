@@ -1,53 +1,53 @@
-Código región,Región,Provincia,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
-13,Metropolitana de Santiago,Santiago,Santiago,438856.0,Total nacidos fuera del país,176956,40.32
-13,Metropolitana de Santiago,Santiago,Cerrillos,85041.0,Total nacidos fuera del país,12732,14.97
-13,Metropolitana de Santiago,Santiago,Cerro Navia,127250.0,Total nacidos fuera del país,12654,9.94
-13,Metropolitana de Santiago,Santiago,Conchalí,121587.0,Total nacidos fuera del país,17686,14.55
-13,Metropolitana de Santiago,Santiago,El Bosque,155257.0,Total nacidos fuera del país,11347,7.31
-13,Metropolitana de Santiago,Santiago,Estación Central,181049.0,Total nacidos fuera del país,69328,38.29
-13,Metropolitana de Santiago,Santiago,Huechuraba,101808.0,Total nacidos fuera del país,9402,9.24
-13,Metropolitana de Santiago,Santiago,Independencia,116943.0,Total nacidos fuera del país,51908,44.39
-13,Metropolitana de Santiago,Santiago,La Cisterna,103157.0,Total nacidos fuera del país,19762,19.16
-13,Metropolitana de Santiago,Santiago,La Florida,374836.0,Total nacidos fuera del país,36685,9.79
-13,Metropolitana de Santiago,Santiago,La Granja,112022.0,Total nacidos fuera del país,9550,8.53
-13,Metropolitana de Santiago,Santiago,La Pintana,175421.0,Total nacidos fuera del país,8313,4.74
-13,Metropolitana de Santiago,Santiago,La Reina,89870.0,Total nacidos fuera del país,6593,7.34
-13,Metropolitana de Santiago,Santiago,Las Condes,296134.0,Total nacidos fuera del país,31069,10.49
-13,Metropolitana de Santiago,Santiago,Lo Barnechea,112620.0,Total nacidos fuera del país,12198,10.83
-13,Metropolitana de Santiago,Santiago,Lo Espejo,87295.0,Total nacidos fuera del país,6818,7.81
-13,Metropolitana de Santiago,Santiago,Lo Prado,91290.0,Total nacidos fuera del país,12539,13.74
-13,Metropolitana de Santiago,Santiago,Macul,123800.0,Total nacidos fuera del país,17497,14.13
-13,Metropolitana de Santiago,Santiago,Maipú,503635.0,Total nacidos fuera del país,30973,6.15
-13,Metropolitana de Santiago,Santiago,Ñuñoa,241467.0,Total nacidos fuera del país,33633,13.93
-13,Metropolitana de Santiago,Santiago,Pedro Aguirre Cerda,96062.0,Total nacidos fuera del país,9522,9.91
-13,Metropolitana de Santiago,Santiago,Peñalolén,236478.0,Total nacidos fuera del país,20141,8.52
-13,Metropolitana de Santiago,Santiago,Providencia,143974.0,Total nacidos fuera del país,16116,11.19
-13,Metropolitana de Santiago,Santiago,Pudahuel,227820.0,Total nacidos fuera del país,16505,7.24
-13,Metropolitana de Santiago,Santiago,Quilicura,205624.0,Total nacidos fuera del país,27310,13.28
-13,Metropolitana de Santiago,Santiago,Quinta Normal,129351.0,Total nacidos fuera del país,35630,27.55
-13,Metropolitana de Santiago,Santiago,Recoleta,154615.0,Total nacidos fuera del país,34009,22.0
-13,Metropolitana de Santiago,Santiago,Renca,143622.0,Total nacidos fuera del país,12523,8.72
-13,Metropolitana de Santiago,Santiago,San Joaquín,95602.0,Total nacidos fuera del país,14088,14.74
-13,Metropolitana de Santiago,Santiago,San Miguel,150829.0,Total nacidos fuera del país,39266,26.03
-13,Metropolitana de Santiago,Santiago,San Ramón,76002.0,Total nacidos fuera del país,6214,8.18
-13,Metropolitana de Santiago,Santiago,Vitacura,86420.0,Total nacidos fuera del país,9401,10.88
-13,Metropolitana de Santiago,Cordillera,Puente Alto,568086.0,Total nacidos fuera del país,29760,5.24
-13,Metropolitana de Santiago,Cordillera,Pirque,29060.0,Total nacidos fuera del país,637,2.19
-13,Metropolitana de Santiago,Cordillera,San José de Maipo,17441.0,Total nacidos fuera del país,823,4.72
-13,Metropolitana de Santiago,Chacabuco,Colina,173293.0,Total nacidos fuera del país,22498,12.98
-13,Metropolitana de Santiago,Chacabuco,Lampa,145160.0,Total nacidos fuera del país,18608,12.82
-13,Metropolitana de Santiago,Chacabuco,Tiltil,19742.0,Total nacidos fuera del país,1133,5.74
-13,Metropolitana de Santiago,Maipo,San Bernardo,306371.0,Total nacidos fuera del país,19544,6.38
-13,Metropolitana de Santiago,Maipo,Buin,116969.0,Total nacidos fuera del país,5960,5.1
-13,Metropolitana de Santiago,Maipo,Calera de Tango,25491.0,Total nacidos fuera del país,898,3.52
-13,Metropolitana de Santiago,Maipo,Paine,78828.0,Total nacidos fuera del país,5365,6.81
-13,Metropolitana de Santiago,Melipilla,Melipilla,136325.0,Total nacidos fuera del país,11069,8.12
-13,Metropolitana de Santiago,Melipilla,Alhué,7768.0,Total nacidos fuera del país,918,11.82
-13,Metropolitana de Santiago,Melipilla,Curacaví,35165.0,Total nacidos fuera del país,1460,4.15
-13,Metropolitana de Santiago,Melipilla,María Pinto,15352.0,Total nacidos fuera del país,356,2.32
-13,Metropolitana de Santiago,Melipilla,San Pedro,11108.0,Total nacidos fuera del país,1260,11.34
-13,Metropolitana de Santiago,Talagante,Talagante,76429.0,Total nacidos fuera del país,4559,5.97
-13,Metropolitana de Santiago,Talagante,El Monte,37497.0,Total nacidos fuera del país,1090,2.91
-13,Metropolitana de Santiago,Talagante,Isla de Maipo,39274.0,Total nacidos fuera del país,1502,3.82
-13,Metropolitana de Santiago,Talagante,Padre Hurtado,81243.0,Total nacidos fuera del país,5296,6.52
-13,Metropolitana de Santiago,Talagante,Peñaflor,94402.0,Total nacidos fuera del país,3731,3.95
+Código región,Región,Provincia,Código comuna,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
+13,Metropolitana de Santiago,Santiago,13101,Santiago,438856.0,Total nacidos fuera del país,176956,40.32
+13,Metropolitana de Santiago,Santiago,13102,Cerrillos,85041.0,Total nacidos fuera del país,12732,14.97
+13,Metropolitana de Santiago,Santiago,13103,Cerro Navia,127250.0,Total nacidos fuera del país,12654,9.94
+13,Metropolitana de Santiago,Santiago,13104,Conchalí,121587.0,Total nacidos fuera del país,17686,14.55
+13,Metropolitana de Santiago,Santiago,13105,El Bosque,155257.0,Total nacidos fuera del país,11347,7.31
+13,Metropolitana de Santiago,Santiago,13106,Estación Central,181049.0,Total nacidos fuera del país,69328,38.29
+13,Metropolitana de Santiago,Santiago,13107,Huechuraba,101808.0,Total nacidos fuera del país,9402,9.24
+13,Metropolitana de Santiago,Santiago,13108,Independencia,116943.0,Total nacidos fuera del país,51908,44.39
+13,Metropolitana de Santiago,Santiago,13109,La Cisterna,103157.0,Total nacidos fuera del país,19762,19.16
+13,Metropolitana de Santiago,Santiago,13110,La Florida,374836.0,Total nacidos fuera del país,36685,9.79
+13,Metropolitana de Santiago,Santiago,13111,La Granja,112022.0,Total nacidos fuera del país,9550,8.53
+13,Metropolitana de Santiago,Santiago,13112,La Pintana,175421.0,Total nacidos fuera del país,8313,4.74
+13,Metropolitana de Santiago,Santiago,13113,La Reina,89870.0,Total nacidos fuera del país,6593,7.34
+13,Metropolitana de Santiago,Santiago,13114,Las Condes,296134.0,Total nacidos fuera del país,31069,10.49
+13,Metropolitana de Santiago,Santiago,13115,Lo Barnechea,112620.0,Total nacidos fuera del país,12198,10.83
+13,Metropolitana de Santiago,Santiago,13116,Lo Espejo,87295.0,Total nacidos fuera del país,6818,7.81
+13,Metropolitana de Santiago,Santiago,13117,Lo Prado,91290.0,Total nacidos fuera del país,12539,13.74
+13,Metropolitana de Santiago,Santiago,13118,Macul,123800.0,Total nacidos fuera del país,17497,14.13
+13,Metropolitana de Santiago,Santiago,13119,Maipú,503635.0,Total nacidos fuera del país,30973,6.15
+13,Metropolitana de Santiago,Santiago,13120,Ñuñoa,241467.0,Total nacidos fuera del país,33633,13.93
+13,Metropolitana de Santiago,Santiago,13121,Pedro Aguirre Cerda,96062.0,Total nacidos fuera del país,9522,9.91
+13,Metropolitana de Santiago,Santiago,13122,Peñalolén,236478.0,Total nacidos fuera del país,20141,8.52
+13,Metropolitana de Santiago,Santiago,13123,Providencia,143974.0,Total nacidos fuera del país,16116,11.19
+13,Metropolitana de Santiago,Santiago,13124,Pudahuel,227820.0,Total nacidos fuera del país,16505,7.24
+13,Metropolitana de Santiago,Santiago,13125,Quilicura,205624.0,Total nacidos fuera del país,27310,13.28
+13,Metropolitana de Santiago,Santiago,13126,Quinta Normal,129351.0,Total nacidos fuera del país,35630,27.55
+13,Metropolitana de Santiago,Santiago,13127,Recoleta,154615.0,Total nacidos fuera del país,34009,22.0
+13,Metropolitana de Santiago,Santiago,13128,Renca,143622.0,Total nacidos fuera del país,12523,8.72
+13,Metropolitana de Santiago,Santiago,13129,San Joaquín,95602.0,Total nacidos fuera del país,14088,14.74
+13,Metropolitana de Santiago,Santiago,13130,San Miguel,150829.0,Total nacidos fuera del país,39266,26.03
+13,Metropolitana de Santiago,Santiago,13131,San Ramón,76002.0,Total nacidos fuera del país,6214,8.18
+13,Metropolitana de Santiago,Santiago,13132,Vitacura,86420.0,Total nacidos fuera del país,9401,10.88
+13,Metropolitana de Santiago,Cordillera,13201,Puente Alto,568086.0,Total nacidos fuera del país,29760,5.24
+13,Metropolitana de Santiago,Cordillera,13202,Pirque,29060.0,Total nacidos fuera del país,637,2.19
+13,Metropolitana de Santiago,Cordillera,13203,San José de Maipo,17441.0,Total nacidos fuera del país,823,4.72
+13,Metropolitana de Santiago,Chacabuco,13301,Colina,173293.0,Total nacidos fuera del país,22498,12.98
+13,Metropolitana de Santiago,Chacabuco,13302,Lampa,145160.0,Total nacidos fuera del país,18608,12.82
+13,Metropolitana de Santiago,Chacabuco,13303,Tiltil,19742.0,Total nacidos fuera del país,1133,5.74
+13,Metropolitana de Santiago,Maipo,13401,San Bernardo,306371.0,Total nacidos fuera del país,19544,6.38
+13,Metropolitana de Santiago,Maipo,13402,Buin,116969.0,Total nacidos fuera del país,5960,5.1
+13,Metropolitana de Santiago,Maipo,13403,Calera de Tango,25491.0,Total nacidos fuera del país,898,3.52
+13,Metropolitana de Santiago,Maipo,13404,Paine,78828.0,Total nacidos fuera del país,5365,6.81
+13,Metropolitana de Santiago,Melipilla,13501,Melipilla,136325.0,Total nacidos fuera del país,11069,8.12
+13,Metropolitana de Santiago,Melipilla,13502,Alhué,7768.0,Total nacidos fuera del país,918,11.82
+13,Metropolitana de Santiago,Melipilla,13503,Curacaví,35165.0,Total nacidos fuera del país,1460,4.15
+13,Metropolitana de Santiago,Melipilla,13504,María Pinto,15352.0,Total nacidos fuera del país,356,2.32
+13,Metropolitana de Santiago,Melipilla,13505,San Pedro,11108.0,Total nacidos fuera del país,1260,11.34
+13,Metropolitana de Santiago,Talagante,13601,Talagante,76429.0,Total nacidos fuera del país,4559,5.97
+13,Metropolitana de Santiago,Talagante,13602,El Monte,37497.0,Total nacidos fuera del país,1090,2.91
+13,Metropolitana de Santiago,Talagante,13603,Isla de Maipo,39274.0,Total nacidos fuera del país,1502,3.82
+13,Metropolitana de Santiago,Talagante,13604,Padre Hurtado,81243.0,Total nacidos fuera del país,5296,6.52
+13,Metropolitana de Santiago,Talagante,13605,Peñaflor,94402.0,Total nacidos fuera del país,3731,3.95

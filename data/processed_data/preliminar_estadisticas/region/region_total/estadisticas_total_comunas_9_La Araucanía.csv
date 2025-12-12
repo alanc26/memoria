@@ -1,33 +1,33 @@
-Código región,Región,Provincia,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
-9,La Araucanía,Cautín,Temuco,292518.0,Total nacidos fuera del país,10660,3.64
-9,La Araucanía,Cautín,Carahue,24957.0,Total nacidos fuera del país,136,0.54
-9,La Araucanía,Cautín,Cunco,19177.0,Total nacidos fuera del país,279,1.45
-9,La Araucanía,Cautín,Curarrehue,7733.0,Total nacidos fuera del país,218,2.82
-9,La Araucanía,Cautín,Freire,26164.0,Total nacidos fuera del país,229,0.88
-9,La Araucanía,Cautín,Galvarino,12710.0,Total nacidos fuera del país,0,0.0
-9,La Araucanía,Cautín,Gorbea,14148.0,Total nacidos fuera del país,170,1.2
-9,La Araucanía,Cautín,Lautaro,41936.0,Total nacidos fuera del país,564,1.34
-9,La Araucanía,Cautín,Loncoche,25158.0,Total nacidos fuera del país,232,0.92
-9,La Araucanía,Cautín,Melipeuco,6796.0,Total nacidos fuera del país,170,2.5
-9,La Araucanía,Cautín,Nueva Imperial,33988.0,Total nacidos fuera del país,211,0.62
-9,La Araucanía,Cautín,Padre Las Casas,80656.0,Total nacidos fuera del país,1200,1.49
-9,La Araucanía,Cautín,Perquenco,7438.0,Total nacidos fuera del país,0,0.0
-9,La Araucanía,Cautín,Pitrufquén,27041.0,Total nacidos fuera del país,414,1.53
-9,La Araucanía,Cautín,Pucón,32321.0,Total nacidos fuera del país,1495,4.63
-9,La Araucanía,Cautín,Saavedra,12877.0,Total nacidos fuera del país,53,0.41
-9,La Araucanía,Cautín,Teodoro Schmidt,15639.0,Total nacidos fuera del país,133,0.85
-9,La Araucanía,Cautín,Toltén,10041.0,Total nacidos fuera del país,82,0.82
-9,La Araucanía,Cautín,Vilcún,31575.0,Total nacidos fuera del país,386,1.22
-9,La Araucanía,Cautín,Villarrica,67737.0,Total nacidos fuera del país,2126,3.14
-9,La Araucanía,Cautín,Cholchol,13167.0,Total nacidos fuera del país,94,0.71
-9,La Araucanía,Malleco,Angol,53022.0,Total nacidos fuera del país,737,1.39
-9,La Araucanía,Malleco,Collipulli,24303.0,Total nacidos fuera del país,197,0.81
-9,La Araucanía,Malleco,Curacautín,18536.0,Total nacidos fuera del país,337,1.82
-9,La Araucanía,Malleco,Ercilla,7730.0,Total nacidos fuera del país,0,0.0
-9,La Araucanía,Malleco,Lonquimay,10247.0,Total nacidos fuera del país,103,1.01
-9,La Araucanía,Malleco,Los Sauces,7348.0,Total nacidos fuera del país,0,0.0
-9,La Araucanía,Malleco,Lumaco,9253.0,Total nacidos fuera del país,0,0.0
-9,La Araucanía,Malleco,Purén,12184.0,Total nacidos fuera del país,0,0.0
-9,La Araucanía,Malleco,Renaico,10686.0,Total nacidos fuera del país,69,0.65
-9,La Araucanía,Malleco,Traiguén,18873.0,Total nacidos fuera del país,155,0.82
-9,La Araucanía,Malleco,Victoria,34464.0,Total nacidos fuera del país,401,1.16
+Código región,Región,Provincia,Código comuna,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
+9,La Araucanía,Cautín,9101,Temuco,292518.0,Total nacidos fuera del país,10660,3.64
+9,La Araucanía,Cautín,9102,Carahue,24957.0,Total nacidos fuera del país,136,0.54
+9,La Araucanía,Cautín,9103,Cunco,19177.0,Total nacidos fuera del país,279,1.45
+9,La Araucanía,Cautín,9104,Curarrehue,7733.0,Total nacidos fuera del país,218,2.82
+9,La Araucanía,Cautín,9105,Freire,26164.0,Total nacidos fuera del país,229,0.88
+9,La Araucanía,Cautín,9106,Galvarino,12710.0,Total nacidos fuera del país,0,0.0
+9,La Araucanía,Cautín,9107,Gorbea,14148.0,Total nacidos fuera del país,170,1.2
+9,La Araucanía,Cautín,9108,Lautaro,41936.0,Total nacidos fuera del país,564,1.34
+9,La Araucanía,Cautín,9109,Loncoche,25158.0,Total nacidos fuera del país,232,0.92
+9,La Araucanía,Cautín,9110,Melipeuco,6796.0,Total nacidos fuera del país,170,2.5
+9,La Araucanía,Cautín,9111,Nueva Imperial,33988.0,Total nacidos fuera del país,211,0.62
+9,La Araucanía,Cautín,9112,Padre Las Casas,80656.0,Total nacidos fuera del país,1200,1.49
+9,La Araucanía,Cautín,9113,Perquenco,7438.0,Total nacidos fuera del país,0,0.0
+9,La Araucanía,Cautín,9114,Pitrufquén,27041.0,Total nacidos fuera del país,414,1.53
+9,La Araucanía,Cautín,9115,Pucón,32321.0,Total nacidos fuera del país,1495,4.63
+9,La Araucanía,Cautín,9116,Saavedra,12877.0,Total nacidos fuera del país,53,0.41
+9,La Araucanía,Cautín,9117,Teodoro Schmidt,15639.0,Total nacidos fuera del país,133,0.85
+9,La Araucanía,Cautín,9118,Toltén,10041.0,Total nacidos fuera del país,82,0.82
+9,La Araucanía,Cautín,9119,Vilcún,31575.0,Total nacidos fuera del país,386,1.22
+9,La Araucanía,Cautín,9120,Villarrica,67737.0,Total nacidos fuera del país,2126,3.14
+9,La Araucanía,Cautín,9121,Cholchol,13167.0,Total nacidos fuera del país,94,0.71
+9,La Araucanía,Malleco,9201,Angol,53022.0,Total nacidos fuera del país,737,1.39
+9,La Araucanía,Malleco,9202,Collipulli,24303.0,Total nacidos fuera del país,197,0.81
+9,La Araucanía,Malleco,9203,Curacautín,18536.0,Total nacidos fuera del país,337,1.82
+9,La Araucanía,Malleco,9204,Ercilla,7730.0,Total nacidos fuera del país,0,0.0
+9,La Araucanía,Malleco,9205,Lonquimay,10247.0,Total nacidos fuera del país,103,1.01
+9,La Araucanía,Malleco,9206,Los Sauces,7348.0,Total nacidos fuera del país,0,0.0
+9,La Araucanía,Malleco,9207,Lumaco,9253.0,Total nacidos fuera del país,0,0.0
+9,La Araucanía,Malleco,9208,Purén,12184.0,Total nacidos fuera del país,0,0.0
+9,La Araucanía,Malleco,9209,Renaico,10686.0,Total nacidos fuera del país,69,0.65
+9,La Araucanía,Malleco,9210,Traiguén,18873.0,Total nacidos fuera del país,155,0.82
+9,La Araucanía,Malleco,9211,Victoria,34464.0,Total nacidos fuera del país,401,1.16

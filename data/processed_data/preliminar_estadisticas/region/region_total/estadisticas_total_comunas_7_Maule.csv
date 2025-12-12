@@ -1,31 +1,31 @@
-Código región,Región,Provincia,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
-7,Maule,Talca,Talca,232131.0,Total nacidos fuera del país,15844,6.83
-7,Maule,Talca,Constitución,47004.0,Total nacidos fuera del país,1315,2.8
-7,Maule,Talca,Curepto,9519.0,Total nacidos fuera del país,58,0.61
-7,Maule,Talca,Empedrado,3990.0,Total nacidos fuera del país,0,0.0
-7,Maule,Talca,Maule,61081.0,Total nacidos fuera del país,2683,4.39
-7,Maule,Talca,Pelarco,9229.0,Total nacidos fuera del país,145,1.57
-7,Maule,Talca,Pencahue,9181.0,Total nacidos fuera del país,210,2.29
-7,Maule,Talca,Río Claro,14276.0,Total nacidos fuera del país,194,1.36
-7,Maule,Talca,San Clemente,47380.0,Total nacidos fuera del país,912,1.92
-7,Maule,Talca,San Rafael,11230.0,Total nacidos fuera del país,174,1.55
-7,Maule,Cauquenes,Cauquenes,42798.0,Total nacidos fuera del país,592,1.38
-7,Maule,Cauquenes,Chanco,9446.0,Total nacidos fuera del país,176,1.86
-7,Maule,Cauquenes,Pelluhue,8578.0,Total nacidos fuera del país,217,2.53
-7,Maule,Curicó,Curicó,159968.0,Total nacidos fuera del país,10601,6.63
-7,Maule,Curicó,Hualañé,10775.0,Total nacidos fuera del país,234,2.17
-7,Maule,Curicó,Licantén,6892.0,Total nacidos fuera del país,152,2.21
-7,Maule,Curicó,Molina,48949.0,Total nacidos fuera del país,1632,3.33
-7,Maule,Curicó,Rauco,11266.0,Total nacidos fuera del país,205,1.82
-7,Maule,Curicó,Romeral,17233.0,Total nacidos fuera del país,535,3.1
-7,Maule,Curicó,Sagrada Familia,19427.0,Total nacidos fuera del país,336,1.73
-7,Maule,Curicó,Teno,30113.0,Total nacidos fuera del país,617,2.05
-7,Maule,Curicó,Vichuquén,4716.0,Total nacidos fuera del país,141,2.99
-7,Maule,Linares,Linares,96744.0,Total nacidos fuera del país,2354,2.43
-7,Maule,Linares,Colbún,22637.0,Total nacidos fuera del país,253,1.12
-7,Maule,Linares,Longaví,33299.0,Total nacidos fuera del país,447,1.34
-7,Maule,Linares,Parral,45323.0,Total nacidos fuera del país,840,1.85
-7,Maule,Linares,Retiro,22310.0,Total nacidos fuera del país,182,0.82
-7,Maule,Linares,San Javier,49559.0,Total nacidos fuera del país,918,1.85
-7,Maule,Linares,Villa Alegre,17919.0,Total nacidos fuera del país,194,1.08
-7,Maule,Linares,Yerbas Buenas,20035.0,Total nacidos fuera del país,149,0.74
+Código región,Región,Provincia,Código comuna,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
+7,Maule,Talca,7101,Talca,232131.0,Total nacidos fuera del país,15844,6.83
+7,Maule,Talca,7102,Constitución,47004.0,Total nacidos fuera del país,1315,2.8
+7,Maule,Talca,7103,Curepto,9519.0,Total nacidos fuera del país,58,0.61
+7,Maule,Talca,7104,Empedrado,3990.0,Total nacidos fuera del país,0,0.0
+7,Maule,Talca,7105,Maule,61081.0,Total nacidos fuera del país,2683,4.39
+7,Maule,Talca,7106,Pelarco,9229.0,Total nacidos fuera del país,145,1.57
+7,Maule,Talca,7107,Pencahue,9181.0,Total nacidos fuera del país,210,2.29
+7,Maule,Talca,7108,Río Claro,14276.0,Total nacidos fuera del país,194,1.36
+7,Maule,Talca,7109,San Clemente,47380.0,Total nacidos fuera del país,912,1.92
+7,Maule,Talca,7110,San Rafael,11230.0,Total nacidos fuera del país,174,1.55
+7,Maule,Cauquenes,7201,Cauquenes,42798.0,Total nacidos fuera del país,592,1.38
+7,Maule,Cauquenes,7202,Chanco,9446.0,Total nacidos fuera del país,176,1.86
+7,Maule,Cauquenes,7203,Pelluhue,8578.0,Total nacidos fuera del país,217,2.53
+7,Maule,Curicó,7301,Curicó,159968.0,Total nacidos fuera del país,10601,6.63
+7,Maule,Curicó,7302,Hualañé,10775.0,Total nacidos fuera del país,234,2.17
+7,Maule,Curicó,7303,Licantén,6892.0,Total nacidos fuera del país,152,2.21
+7,Maule,Curicó,7304,Molina,48949.0,Total nacidos fuera del país,1632,3.33
+7,Maule,Curicó,7305,Rauco,11266.0,Total nacidos fuera del país,205,1.82
+7,Maule,Curicó,7306,Romeral,17233.0,Total nacidos fuera del país,535,3.1
+7,Maule,Curicó,7307,Sagrada Familia,19427.0,Total nacidos fuera del país,336,1.73
+7,Maule,Curicó,7308,Teno,30113.0,Total nacidos fuera del país,617,2.05
+7,Maule,Curicó,7309,Vichuquén,4716.0,Total nacidos fuera del país,141,2.99
+7,Maule,Linares,7401,Linares,96744.0,Total nacidos fuera del país,2354,2.43
+7,Maule,Linares,7402,Colbún,22637.0,Total nacidos fuera del país,253,1.12
+7,Maule,Linares,7403,Longaví,33299.0,Total nacidos fuera del país,447,1.34
+7,Maule,Linares,7404,Parral,45323.0,Total nacidos fuera del país,840,1.85
+7,Maule,Linares,7405,Retiro,22310.0,Total nacidos fuera del país,182,0.82
+7,Maule,Linares,7406,San Javier,49559.0,Total nacidos fuera del país,918,1.85
+7,Maule,Linares,7407,Villa Alegre,17919.0,Total nacidos fuera del país,194,1.08
+7,Maule,Linares,7408,Yerbas Buenas,20035.0,Total nacidos fuera del país,149,0.74

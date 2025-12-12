@@ -1,22 +1,22 @@
-Código región,Región,Provincia,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
-16,Ñuble,Diguillín,Chillán,190382.0,Total nacidos fuera del país,6928,3.64
-16,Ñuble,Diguillín,Bulnes,23863.0,Total nacidos fuera del país,257,1.08
-16,Ñuble,Diguillín,Chillán Viejo,32688.0,Total nacidos fuera del país,792,2.42
-16,Ñuble,Diguillín,El Carmen,13186.0,Total nacidos fuera del país,103,0.78
-16,Ñuble,Diguillín,Pemuco,8930.0,Total nacidos fuera del país,0,0.0
-16,Ñuble,Diguillín,Pinto,12502.0,Total nacidos fuera del país,212,1.7
-16,Ñuble,Diguillín,Quillón,19165.0,Total nacidos fuera del país,424,2.21
-16,Ñuble,Diguillín,San Ignacio,17405.0,Total nacidos fuera del país,114,0.65
-16,Ñuble,Diguillín,Yungay,18680.0,Total nacidos fuera del país,171,0.92
-16,Ñuble,Itata,Quirihue,11746.0,Total nacidos fuera del país,72,0.61
-16,Ñuble,Itata,Cobquecura,5495.0,Total nacidos fuera del país,73,1.33
-16,Ñuble,Itata,Coelemu,15895.0,Total nacidos fuera del país,154,0.97
-16,Ñuble,Itata,Ninhue,5763.0,Total nacidos fuera del país,0,0.0
-16,Ñuble,Itata,Portezuelo,5203.0,Total nacidos fuera del país,0,0.0
-16,Ñuble,Itata,Ránquil,6508.0,Total nacidos fuera del país,0,0.0
-16,Ñuble,Itata,Trehuaco,6124.0,Total nacidos fuera del país,0,0.0
-16,Ñuble,Punilla,San Carlos,55847.0,Total nacidos fuera del país,814,1.46
-16,Ñuble,Punilla,Coihueco,29766.0,Total nacidos fuera del país,314,1.05
-16,Ñuble,Punilla,Ñiquén,12797.0,Total nacidos fuera del país,70,0.55
-16,Ñuble,Punilla,San Fabián,5245.0,Total nacidos fuera del país,87,1.66
-16,Ñuble,Punilla,San Nicolás,15099.0,Total nacidos fuera del país,185,1.23
+Código región,Región,Provincia,Código comuna,Comuna,poblacion_total,País o continente de nacimiento,poblacion_migrante,porcentaje
+16,Ñuble,Diguillín,16101,Chillán,190382.0,Total nacidos fuera del país,6928,3.64
+16,Ñuble,Diguillín,16102,Bulnes,23863.0,Total nacidos fuera del país,257,1.08
+16,Ñuble,Diguillín,16103,Chillán Viejo,32688.0,Total nacidos fuera del país,792,2.42
+16,Ñuble,Diguillín,16104,El Carmen,13186.0,Total nacidos fuera del país,103,0.78
+16,Ñuble,Diguillín,16105,Pemuco,8930.0,Total nacidos fuera del país,0,0.0
+16,Ñuble,Diguillín,16106,Pinto,12502.0,Total nacidos fuera del país,212,1.7
+16,Ñuble,Diguillín,16107,Quillón,19165.0,Total nacidos fuera del país,424,2.21
+16,Ñuble,Diguillín,16108,San Ignacio,17405.0,Total nacidos fuera del país,114,0.65
+16,Ñuble,Diguillín,16109,Yungay,18680.0,Total nacidos fuera del país,171,0.92
+16,Ñuble,Itata,16201,Quirihue,11746.0,Total nacidos fuera del país,72,0.61
+16,Ñuble,Itata,16202,Cobquecura,5495.0,Total nacidos fuera del país,73,1.33
+16,Ñuble,Itata,16203,Coelemu,15895.0,Total nacidos fuera del país,154,0.97
+16,Ñuble,Itata,16204,Ninhue,5763.0,Total nacidos fuera del país,0,0.0
+16,Ñuble,Itata,16205,Portezuelo,5203.0,Total nacidos fuera del país,0,0.0
+16,Ñuble,Itata,16206,Ránquil,6508.0,Total nacidos fuera del país,0,0.0
+16,Ñuble,Itata,16207,Trehuaco,6124.0,Total nacidos fuera del país,0,0.0
+16,Ñuble,Punilla,16301,San Carlos,55847.0,Total nacidos fuera del país,814,1.46
+16,Ñuble,Punilla,16302,Coihueco,29766.0,Total nacidos fuera del país,314,1.05
+16,Ñuble,Punilla,16303,Ñiquén,12797.0,Total nacidos fuera del país,70,0.55
+16,Ñuble,Punilla,16304,San Fabián,5245.0,Total nacidos fuera del país,87,1.66
+16,Ñuble,Punilla,16305,San Nicolás,15099.0,Total nacidos fuera del país,185,1.23

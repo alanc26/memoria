@@ -1,0 +1,345 @@
+Código Comuna,Nombre Comuna,Total_centros
+1101,Iquique,12
+1107,Alto Hospicio,8
+1401,Pozo Almonte,5
+1402,Camiña,3
+1403,Colchane,5
+1404,Huara,8
+1405,Pica,4
+2101,Antofagasta,17
+2102,Mejillones,2
+2103,Sierra Gorda,4
+2104,Taltal,2
+2201,Calama,13
+2202,Ollagüe,1
+2203,San Pedro de Atacama,7
+2301,Tocopilla,1
+2302,Maria Elena,3
+3101,Copiapó,11
+3102,Caldera,2
+3103,Tierra Amarilla,3
+3201,Chañaral,3
+3202,Diego de Almagro,4
+3301,Vallenar,11
+3302,Alto del Carmen,6
+3303,Freirina,3
+3304,Huasco,5
+4101,La Serena,19
+4102,Coquimbo,19
+4103,Andacollo,1
+4104,La Higuera,5
+4105,Paiguano,5
+4106,Vicuña,11
+4201,Illapel,16
+4202,Canela,11
+4203,Los Vilos,6
+4204,Salamanca,11
+4301,Ovalle,23
+4302,Combarbalá,13
+4303,Monte Patria,14
+4304,Punitaqui,5
+4305,Río Hurtado,8
+5101,Valparaíso,27
+5102,Casablanca,5
+5103,Con Con,1
+5104,Juan Fernández,2
+5105,Puchuncaví,9
+5107,Quintero,4
+5109,Viña del Mar,20
+5201,Isla de Pascua,1
+5301,Los Andes,5
+5302,Calle Larga,3
+5303,Rinconada,2
+5304,San Esteban,6
+5401,La Ligua,13
+5402,Cabildo,6
+5403,Papudo,4
+5404,Petorca,5
+5405,Zapallar,5
+5501,Quillota,11
+5502,Calera,9
+5503,Hijuelas,4
+5504,La Cruz,2
+5506,Nogales,5
+5601,San Antonio,15
+5602,Algarrobo,4
+5603,Cartagena,6
+5604,El Quisco,4
+5605,El Tabo,4
+5606,Santo Domingo,5
+5701,San Felipe,6
+5702,Catemu,3
+5703,Llaillay,2
+5704,Panquehue,1
+5705,Putaendo,8
+5706,Santa Maria,4
+5801,Quilpué,10
+5802,Limache,3
+5803,Olmué,6
+5804,Villa Alemana,7
+6101,Rancagua,14
+6102,Codegua,3
+6103,Coinco,2
+6104,Coltauco,6
+6105,Doñihue,3
+6106,Graneros,1
+6107,Las Cabras,10
+6108,Machalí,4
+6109,Malloa,4
+6110,Mostazal,3
+6111,Olivar,5
+6112,Peumo,3
+6113,Pichidegua,7
+6114,Quinta de Tilcoco,3
+6115,Rengo,10
+6116,Requínoa,6
+6117,San Vicente,7
+6201,Pichilemu,4
+6202,La Estrella,2
+6203,Litueche,3
+6204,Marchihue,3
+6205,Navidad,5
+6206,Paredones,5
+6301,San Fernando,10
+6302,Chepica,5
+6303,Chimbarongo,6
+6304,Lolol,4
+6305,Nancagua,5
+6306,Palmilla,4
+6307,Peralillo,5
+6308,Placilla,3
+6309,Pumanque,3
+6310,Santa Cruz,7
+7101,Talca,17
+7102,Constitución,10
+7103,Curepto,9
+7104,Empedrado,3
+7105,Maule,7
+7106,Pelarco,5
+7107,Pencahue,8
+7108,Río Claro,7
+7109,San Clemente,21
+7110,San Rafael,3
+7201,Cauquenes,16
+7202,Chanco,8
+7203,Pelluhue,4
+7301,Curicó,19
+7302,Hualañé,5
+7303,Licantén,6
+7304,Molina,9
+7305,Rauco,5
+7306,Romeral,5
+7307,Sagrada Familia,6
+7308,Teno,8
+7309,Vichuquén,6
+7401,Linares,19
+7402,Colbún,8
+7403,Longaví,12
+7404,Parral,16
+7405,Retiro,11
+7406,San Javier,13
+7407,Villa Alegre,7
+7408,Yerbas Buenas,6
+8101,Concepción,15
+8102,Coronel,12
+8103,Chiguayante,6
+8104,Florida,6
+8105,Hualqui,5
+8106,Lota,4
+8107,Penco,6
+8108,San Pedro de la Paz,8
+8109,Santa Juana,7
+8110,Talcahuano,13
+8111,Tome,12
+8112,Hualpén,11
+8201,Lebu,6
+8202,Arauco,13
+8203,Cañete,9
+8204,Contulmo,5
+8205,Curanilahue,5
+8206,Los Álamos,6
+8207,Tirúa,7
+8301,Los Ángeles,34
+8302,Antuco,3
+8303,Cabrero,8
+8304,Laja,5
+8305,Mulchén,9
+8306,Nacimiento,9
+8307,Negrete,4
+8308,Quilaco,5
+8309,Quilleco,7
+8310,San Rosendo,3
+8311,Santa Bárbara,7
+8312,Tucapel,5
+8313,Yumbel,8
+8314,Alto Biobío,10
+9101,Temuco,20
+9102,Carahue,18
+9103,Cunco,10
+9104,Curarrehue,7
+9105,Freire,13
+9106,Galvarino,11
+9107,Gorbea,7
+9108,Lautaro,16
+9109,Loncoche,6
+9110,Melipeuco,5
+9111,Nueva Imperial,12
+9112,Padre Las Casas,13
+9113,Perquenco,4
+9114,Pitrufquén,10
+9115,Pucón,8
+9116,Saavedra,15
+9117,Teodoro Schmidt,9
+9118,Toltén,7
+9119,Vilcún,8
+9120,Villarrica,11
+9121,Cholchol,5
+9201,Angol,9
+9202,Collipulli,9
+9203,Curacautín,9
+9204,Ercilla,6
+9205,Lonquimay,12
+9206,Los Sauces,5
+9207,Lumaco,7
+9208,Purén,7
+9209,Renaico,3
+9210,Traiguén,7
+9211,Victoria,10
+10101,Puerto Montt,29
+10102,Calbuco,21
+10103,Cochamó,10
+10104,Fresia,9
+10105,Frutillar,6
+10106,Los Muermos,7
+10107,Llanquihue,6
+10108,Maullín,8
+10109,Puerto Varas,8
+10201,Castro,13
+10202,Ancud,14
+10203,Chonchi,12
+10204,Curaco de Vélez,4
+10205,Dalcahue,8
+10206,Puqueldón,6
+10207,Queilén,9
+10208,Quellón,19
+10209,Quemchi,11
+10210,Quinchao,11
+10301,Osorno,14
+10302,Puerto Octay,8
+10303,Purranque,12
+10304,Puyehue,6
+10305,Río Negro,6
+10306,San Juan de la Costa,10
+10307,San Pablo,7
+10401,Chaitén,11
+10402,Futaleufú,3
+10403,Hualaihué,6
+10404,Palena,3
+11101,Coyhaique,11
+11102,Lago Verde,3
+11201,Aisén,7
+11202,Cisnes,6
+11203,Guaitecas,1
+11301,Cochrane,1
+11302,O'Higgins,1
+11303,Tortel,1
+11401,Chile Chico,4
+11402,Río Ibáñez,5
+12101,Punta Arenas,13
+12102,Laguna Blanca,1
+12103,Río Verde,1
+12104,San Gregorio,1
+12201,Cabo de Hornos,1
+12301,Porvenir,1
+12303,Timaukel,1
+12401,Natales,5
+12402,Torres del Paine,1
+13101,Santiago,12
+13102,Cerrillos,4
+13103,Cerro Navia,9
+13104,Conchalí,9
+13105,El Bosque,11
+13106,Estación Central,6
+13107,Huechuraba,6
+13108,Independencia,8
+13109,La Cisterna,4
+13110,La Florida,20
+13111,La Granja,9
+13112,La Pintana,11
+13113,La Reina,3
+13114,Las Condes,3
+13115,Lo Barnechea,5
+13116,Lo Espejo,7
+13117,Lo Prado,7
+13118,Macul,4
+13119,Maipú,20
+13120,Ñuñoa,5
+13121,Pedro Aguirre Cerda,8
+13122,Peñalolén,13
+13123,Providencia,12
+13124,Pudahuel,16
+13125,Quilicura,10
+13126,Quinta Normal,8
+13127,Recoleta,8
+13128,Renca,5
+13129,San Joaquín,10
+13130,San Miguel,6
+13131,San Ramón,7
+13132,Vitacura,2
+13201,Puente Alto,15
+13202,Pirque,5
+13203,San José de Maipo,4
+13301,Colina,10
+13302,Lampa,7
+13303,Tiltil,7
+13401,San Bernardo,17
+13402,Buin,13
+13403,Calera de Tango,4
+13404,Paine,9
+13501,Melipilla,14
+13502,Alhué,5
+13503,Curacaví,3
+13504,Maria Pinto,5
+13505,San Pedro,6
+13601,Talagante,6
+13602,El Monte,3
+13603,Isla de Maipo,9
+13604,Padre Hurtado,2
+13605,Peñaflor,5
+14101,Valdivia,22
+14102,Corral,3
+14103,Lanco,4
+14104,Los Lagos,10
+14105,Máfil,4
+14106,Mariquina,13
+14107,Paillaco,8
+14108,Panguipulli,16
+14201,La Unión,13
+14202,Futrono,8
+14203,Lago Ranco,8
+14204,Río Bueno,10
+15101,Arica,15
+15102,Camarones,1
+15201,Putre,4
+15202,General Lagos,1
+16101,Chillán ,16
+16102,Bulnes,4
+16103,Chillán Viejo,5
+16104,El Carmen,11
+16105,Pemuco,4
+16106,Pinto,4
+16107,Quillón,6
+16108,San Ignacio,6
+16109,Yungay,3
+16201,Quirihue,2
+16202,Cobquecura,4
+16203,Coelemu,4
+16204,Ninhue,4
+16205,Portezuelo,4
+16206,Ránquil,4
+16207,Treguaco,5
+16301,San Carlos,11
+16302,Coihueco,6
+16303,Ñiquén,7
+16304,San Fabián,4
+16305,San Nicolás,3
